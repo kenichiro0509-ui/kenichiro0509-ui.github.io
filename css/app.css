@@ -197,3 +197,13 @@ input[type="file"]{display:block;width:100%;max-width:100%;overflow:hidden}
 .prefecture-select span{font-size:13px;font-weight:800;color:#374151;white-space:nowrap}
 .prefecture-select select{width:100%;min-width:0;min-height:46px;border:1px solid #d1d5db;border-radius:12px;padding:9px 36px 9px 12px;background:#fff;color:#111827;font-weight:700}
 @media(max-width:767px){.prefecture-select{grid-template-columns:1fr;gap:5px}.prefecture-select select{min-height:48px}}
+
+/* Analysis: total / yearly / monthly summaries */
+.analysis-summary-grid{display:grid;grid-template-columns:1fr;gap:12px;margin-bottom:14px}
+.analysis-summary-grid>.panel{margin-bottom:0}
+.analysis-summary-card h2{margin:3px 0 0;font-size:18px}
+.analysis-scope-tabs{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;margin-top:12px}
+.analysis-scope-tabs button{min-height:44px;border:1px solid #d1d5db;border-radius:11px;background:#fff;color:#374151;font-weight:800;cursor:pointer}
+.analysis-scope-tabs button.selected{background:#111827;color:#fff;border-color:#111827}
+@media(max-width:360px){.analysis-scope-tabs{gap:5px}.analysis-scope-tabs button{padding:8px 4px;font-size:14px}}
+@media(min-width:900px){.analysis-summary-grid{grid-template-columns:repeat(3,minmax(0,1fr));align-items:stretch}.analysis-summary-grid>.panel{height:100%}}
