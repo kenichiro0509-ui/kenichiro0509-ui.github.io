@@ -1,0 +1,686 @@
+[
+  {
+    "name": "ライブガーデン宇都宮桜店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "ライブガーデン宇都宮野沢店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "ライブガーデン鹿沼グランドシティ",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "１円の達人鹿沼店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "コンサートホール今泉店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "ジャンジャンデルノザウルス今市店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "マックス・ヤナセ",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "麗都宇都宮テクノ店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "コンサートホール五代店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "ALIVE御幸店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "アイマックス",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "パーラービート",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "パーラーキング",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "Happy　BOSS",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "Super　BOSS",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "KING　BOSS　1000",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "メッセ",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "Wonder　BOSS",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "イクサム　上三川店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "アイランド日光店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "ココ・マックス",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "マルハン鹿沼店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "ALIVEテクノ店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "DELGRAND　下栗",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "DELGRANDインターパーク店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "ダイナム栃木日光大沢店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "ダイナム栃木今市店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "ALIVE海道店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "ALIVE駒生店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "DELGRAND　上横田",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "ダイナム栃木鹿沼店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "有楽会館砥上店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "有楽会館今泉店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "ドルフィン幕田店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "鹿沼ジャンボ",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "ビックマーチ西川田店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "ビックマーチ石橋店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "ビックマーチ宇都宮店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "ビックマーチ簗瀬店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "スーパーライブガーデン野木店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "スーパーライブガーデン小山喜沢店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "ライブガーデン佐野店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "ライブガーデン栃木本店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "ライブガーデン佐野スロット店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "ライブガーデン小山粟宮スタンダード",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "メルヘンワールド足利店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "パチンコ徳川１",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "スーパー１円劇場栃木店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "マルハン小山千駄塚店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "麗都横倉店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "パチンコプラザ　ラ・カータ花ぞの店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "ダイエー佐野店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "アイランド足利店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "ALIVE石橋店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "パチンコプラザ　ラ・カータ足利店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "アイランド佐野店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "でるでる栃木店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "ダイナム栃木佐野高萩店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "PSブランド佐野店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "BBステーション佐野田沼インター店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "ダイナム足利店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "ダイナム栃木岩舟店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "ニラク足利福居店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "パーラープレジャー",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "ＭＧＭ小山本郷店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "ビックマーチ佐野店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "ペタマックス",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "ビックマーチ栃木本店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "リボン",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "Super　fever　1",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "Tender　BOSS",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "ニラク大田原加治屋店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "夢屋　西那須野店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "ダイエー氏家店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "マルハン氏家店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "マルハン黒磯店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "夢屋　黒磯店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "ガイア那須塩原店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "ガイアらくらく館那須塩原店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "フィーバー黒磯",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "マルハン那須塩原店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "ダイナム栃木黒磯店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "ダイナム西那須野店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "ダイナム栃木さくら店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "ダイナム栃木矢板店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "ダイナム栃木大田原店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "有楽会館黒磯店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "有楽会館西那須野店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "テラマックス",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "ギガマックス",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "メガマックス",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "ＺＡＰＰ西那須野",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "ZAPP黒磯",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "マックス",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "ダイナム真岡店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "BIG　BOSS　1000",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "ALIVE益子店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "つばめザ・ブーム",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "DELGRAND　真岡",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "南大門大金店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "でるでる真岡店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "でるでる益子店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "パーラーD＆D",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "ビックマーチ真岡店",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "モナコプラザ",
+    "prefecture": "栃木県"
+  },
+  {
+    "name": "ミロックス泉店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "リボン茨島店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "ガイア大曲店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "大曲ひまわり",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "ゴールドリボン",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "パチンコ２２　大曲店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "土崎BC",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "ビィギャル外旭川店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "ガイア割山店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "ニューヨークニューヨーク泉店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "ニューヨークニューヨーク臨海店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "ニューヨークニューヨーク広面店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "マルハン広面店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "マルハン茨島店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "マルハン外旭川店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "マルハン追分店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "エスタディオ大曲",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "ダイナム秋田御所野店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "ＭＱリゾート広面店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "ビイ・ギャル茨島店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "ビイギャル　ステーション",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "ダイナム中仙店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "ダイナム秋田臨海店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "ダイナム大曲店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "ダイナム秋田店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "ESPASO　秋田南店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "ライジング大館",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "マルハン大館店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "マルハン能代店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "ビイギャル男鹿店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "トリニティ大館店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "能代ひまわり",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "ビィ・ギャル能代店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "夢工房２１鹿角店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "パチンコ２1男鹿店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "有浦ミロクセンター",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "ミロックス花輪店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "ダイナム五城目店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "ダイナム大館店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "ダイナム男鹿店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "メルヘンワールド秋田井川店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "ダイナム能代店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "ダイナム秋田たかのす店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "chaos　大館店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "chaos　鷹巣店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "ＧＩＧＡ　ＷＡＶＥ　３０３",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "ＴＨＥ　ＷＯＲＬＤ",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "三星センター毛馬内店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "ニューホームラン",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "ニュー三星センター",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "パチンコすずらん　船川海岸通り店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "ガイア横手",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "パチンコ21本荘店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "ニューヨークニューヨーク湯沢店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "パチンコ２１　湯沢店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "ビィ・ギャル横手店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "マルハン由利本荘店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "ニューヨークニューヨーク横手店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "ビイギャルにかほ店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "ビイ・ギャル本荘店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "スーパードーム由利本荘店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "メルヘンワールド横手店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "パチンコ２２十文字店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "ダイナム湯沢店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "ダイナム本荘店",
+    "prefecture": "秋田県"
+  },
+  {
+    "name": "ダイナム横手店",
+    "prefecture": "秋田県"
+  }
+]
