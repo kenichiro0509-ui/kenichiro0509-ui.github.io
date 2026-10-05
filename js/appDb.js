@@ -59,8 +59,8 @@
 
     window.slotUi = {
         confirm: (message) => window.confirm(message),
-        downloadText: (fileName, text) => {
-            const blob = new Blob([text], { type: 'application/json;charset=utf-8' });
+        downloadText: (fileName, text, contentType = 'text/plain;charset=utf-8') => {
+            const blob = new Blob([text], { type: contentType });
             const url = URL.createObjectURL(blob);
             const a = document.createElement('a');
             a.href = url;
